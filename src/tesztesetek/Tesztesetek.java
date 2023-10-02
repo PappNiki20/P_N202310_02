@@ -1,13 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+//https://github.com/PappNiki20/P_N202310_02.git
 package tesztesetek;
 
-/**
- *
- * @author papp.nikoletta
- */
 public class Tesztesetek {
 
     /**
